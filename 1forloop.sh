@@ -5,8 +5,9 @@
 #Modified Date:
 #Author: Ankam Ravi Kumar
 # START #
+#iterate over a sequence of range 1-5
 for i in 1 2 3 4 5
 do
-echo $i
+echo $i # we need to print the whole range or sequence
 done
 # END #
